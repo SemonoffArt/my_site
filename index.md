@@ -1,5 +1,7 @@
-# Midnight theme
 
+# Midnight theme
+title: [title Master ]
+description: [A short description of your site's purpose]
 Midnight is a theme for GitHub Pages.
 
 ---
